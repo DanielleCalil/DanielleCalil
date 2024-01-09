@@ -23,3 +23,5 @@ Sou iniciante nesse mundo de desenvolvimento, mas evoluindo a cada dia.
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellecalil&show_icons=true&theme=nightowl&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=daniellecalil&show_icons=true&show_icons=true&theme=nightowl&count_private=true" />
 </div>
+
+![Snake animation](https://github.com/daniellecalil/daniellecalil/blob/output/github-contribution-grid-snake.svg)
