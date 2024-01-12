@@ -8,7 +8,6 @@
 Sou iniciante nesse mundo de desenvolvimento, mas evoluindo a cada dia.
 
 - 💻 Estudante de Téc. em Desenvolvimento de Sistemas
-- 😍 Apaixonada por animais
 - 💕 Desenvolvedora em aprendizado
 
 <div>
