@@ -2,8 +2,8 @@
 
 # Seja Bem Vinda(o) ao meu GitHub! É bom ter voçê por aqui ❤️
 
-<a href="https://instagram.com/daniicalil" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/danielle-calil-7a6880271" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/daniicalil" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/danielle-calil-7a6880271" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
   
 Sou iniciante nesse mundo de desenvolvimento, mas evoluindo a cada dia.
 
