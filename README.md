@@ -6,9 +6,7 @@
   
 É um prazer ter você por aqui! ❤️
 
--💻 Formada em Técnico em Desenvolvimento de Sistemas;
--📚 Sempre aprendendo e evoluindo no mundo do desenvolvimento;
--💕 Apaixonada por tecnologia e novos desafios;
+💻 Formada em Técnico em Desenvolvimento de Sistemas;📚 Sempre aprendendo e evoluindo no mundo do desenvolvimento;💕 Apaixonada por tecnologia e novos desafios;
 
 Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada! 😃✨
 
