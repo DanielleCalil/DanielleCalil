@@ -1,15 +1,17 @@
 
-# Seja Bem Vinda(o) ao meu GitHub! É bom ter voçê por aqui ❤️
+🎉# Seja Bem Vinda(o) ao meu GitHub! 🚀
 
 <a href="https://www.instagram.com/daniicalil/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/danielle-calil-7a6880271" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
 <img src = "banner.gif"  width = "325px" align = "right">
-
   
-Sou iniciante nesse mundo de desenvolvimento, mas evoluindo a cada dia.
+É um prazer ter você por aqui! ❤️
 
-- 💻 Estudante de Téc. em Desenvolvimento de Sistemas
-- 💕 Desenvolvedora em aprendizado
+💻 Formada em Técnico em Desenvolvimento de Sistemas
+📚 Sempre aprendendo e evoluindo no mundo do desenvolvimento
+💕 Apaixonada por tecnologia e novos desafios
+
+Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada! 😃✨
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
