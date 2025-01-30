@@ -1,5 +1,5 @@
 
-🎉# Seja Bem Vinda(o) ao meu GitHub! 🚀
+#🎉 Seja Bem Vinda(o) ao meu GitHub! 🚀
 
 <a href="https://www.instagram.com/daniicalil/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/danielle-calil-7a6880271" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
@@ -7,9 +7,11 @@
   
 É um prazer ter você por aqui! ❤️
 
-💻 Formada em Técnico em Desenvolvimento de Sistemas
-📚 Sempre aprendendo e evoluindo no mundo do desenvolvimento
-💕 Apaixonada por tecnologia e novos desafios
+💻 Formada em Técnico em Desenvolvimento de Sistemas;
+
+📚 Sempre aprendendo e evoluindo no mundo do desenvolvimento;
+
+💕 Apaixonada por tecnologia e novos desafios;
 
 Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada! 😃✨
 
