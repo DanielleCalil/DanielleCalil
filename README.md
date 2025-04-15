@@ -6,7 +6,7 @@
   
 É um prazer ter você por aqui! ❤️
 
-💻 Formada em Técnico em Desenvolvimento de Sistemas;
+💻 Formada no curso Técnico em Desenvolvimento de Sistemas;
 
 📚 Sempre aprendendo e evoluindo no mundo do desenvolvimento;
 
