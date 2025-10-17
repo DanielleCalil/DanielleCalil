@@ -6,6 +6,8 @@
   
 É um prazer ter você por aqui! ❤️
 
+👩🏻‍💻 Cursando Sistemas Inteligentes na Fatec;
+
 💻 Formada no curso Técnico em Desenvolvimento de Sistemas;
 
 📚 Sempre aprendendo e evoluindo no mundo do desenvolvimento;
