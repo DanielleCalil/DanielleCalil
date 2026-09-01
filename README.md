@@ -1,6 +1,6 @@
 # 🎉 Seja Bem Vinda(o) ao meu GitHub! 🚀
 
-<a href="https://www.instagram.com/daniicalil/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/daniicoutoc/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/danielle-couto-calil-7a6880271/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
 <img src = "banner.gif"  width = "325px" align = "right">
   
@@ -27,11 +27,4 @@ Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada! 😃
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-<div align = "center">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellecalil&show_icons=true&theme=nightowl&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=daniellecalil&show_icons=true&show_icons=true&theme=nightowl&count_private=true" />
 </div>
